@@ -1,4 +1,4 @@
-"""Лабораторная 1.
+ """Лабораторная 1.
 
 Текст задания:
 https://github.com/hilleri123/AS_Python/blob/master/1lab/task.md
